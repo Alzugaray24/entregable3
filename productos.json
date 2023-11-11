@@ -1,0 +1,38 @@
+[
+	{
+		"id": 1,
+		"title": "Laptop",
+		"descripcion": "Gamer desktop",
+		"price": 200,
+		"thumbnail": "laptop1.jpg",
+		"code": 1001,
+		"stock": 10
+	},
+	{
+		"id": 2,
+		"title": "Teléfono",
+		"descripcion": "Smartphone",
+		"price": 499,
+		"thumbnail": "telefono1.jpg",
+		"code": 2002,
+		"stock": 15
+	},
+	{
+		"id": 3,
+		"title": "Tablet",
+		"descripcion": "Tablet Android",
+		"price": 149,
+		"thumbnail": "tablet1.jpg",
+		"code": 3003,
+		"stock": 5
+	},
+	{
+		"id": 4,
+		"title": "Impresora",
+		"descripcion": "Impresora WiFi",
+		"price": 99,
+		"thumbnail": "impresora1.jpg",
+		"code": 4004,
+		"stock": 7
+	}
+]
